@@ -6,6 +6,8 @@
 
 **Author:** Muhammad Ahsan · [LinkedIn](https://www.linkedin.com/in/ahsan1143) · **Tools:** SQL (SQLite), Excel (SUMIFS / INDEX-MATCH / data validation), HTML/JavaScript dashboard, Python for data prep
 
+**[Open the live dashboard →](https://ahsan1143.github.io/erp-job-cost-reporting/dashboard/)**
+
 ![Operations dashboard](reports/figures/dashboard_all_jobs.png)
 
 ---
@@ -72,4 +74,4 @@ pip install pandas
 python src/generate_sample_data.py
 python src/build_dashboard_data.py
 ```
-**Live dashboard:** enable GitHub Pages on this repository (Settings → Pages → Deploy from branch → `main` / root). The dashboard is then served at `https://<your-username>.github.io/erp-job-cost-reporting/dashboard/`.
+**Live dashboard:** [ahsan1143.github.io/erp-job-cost-reporting/dashboard](https://ahsan1143.github.io/erp-job-cost-reporting/dashboard/)
