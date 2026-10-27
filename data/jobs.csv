@@ -1,0 +1,13 @@
+job_no,job_name,job_type,client_type,project_manager,original_contract,approved_change_orders,bid_margin_pct,start_date,scheduled_finish,revised_contract,status,company
+23-098,Transit Bus Garage Upgrade,Institutional,Municipal,R. Singh,14850000,612000,0.105,2024-06-03,2026-08-28,15462000,Substantially complete,Boreal Ridge Construction Ltd. (fictional)
+24-101,Leduc Distribution Warehouse,Industrial,Private developer,M. Okafor,21400000,845000,0.095,2025-03-03,2026-12-18,22245000,In progress,Boreal Ridge Construction Ltd. (fictional)
+24-104,School Modernization - Phase 2,Institutional,School board,J. Tremblay,16200000,338000,0.11,2025-05-05,2027-01-29,16538000,In progress,Boreal Ridge Construction Ltd. (fictional)
+24-107,Fabrication Shop Expansion,Industrial,Private industrial,M. Okafor,9750000,410000,0.12,2025-06-02,2026-10-30,10160000,In progress,Boreal Ridge Construction Ltd. (fictional)
+25-110,Medical Office Building,Commercial,Private developer,S. Chen,24600000,980000,0.1,2025-08-04,2027-05-28,25580000,In progress,Boreal Ridge Construction Ltd. (fictional)
+25-112,Fire Hall No. 4,Institutional,Municipal,R. Singh,8900000,126000,0.115,2025-09-08,2026-11-27,9026000,In progress,Boreal Ridge Construction Ltd. (fictional)
+25-115,Recreation Centre Retrofit,Institutional,Municipal,J. Tremblay,11300000,765000,0.105,2025-10-06,2027-03-26,12065000,In progress,Boreal Ridge Construction Ltd. (fictional)
+25-118,Cold Storage Facility,Industrial,Private industrial,S. Chen,17800000,290000,0.098,2025-11-03,2027-02-26,18090000,In progress,Boreal Ridge Construction Ltd. (fictional)
+25-121,Seniors Residence,Residential,Non-profit,A. Dubois,19950000,455000,0.09,2026-01-12,2027-08-27,20405000,In progress,Boreal Ridge Construction Ltd. (fictional)
+26-124,Process Building,Industrial,Private industrial,M. Okafor,13400000,0,0.115,2026-03-02,2027-06-25,13400000,In progress,Boreal Ridge Construction Ltd. (fictional)
+26-127,Retail Plaza,Commercial,Private developer,A. Dubois,7650000,0,0.125,2026-05-04,2027-04-30,7650000,In progress,Boreal Ridge Construction Ltd. (fictional)
+26-130,Public Works Yard Building,Institutional,Municipal,R. Singh,6300000,0,0.11,2026-07-06,2027-07-30,6300000,In progress,Boreal Ridge Construction Ltd. (fictional)

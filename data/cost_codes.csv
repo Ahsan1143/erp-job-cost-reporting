@@ -1,0 +1,16 @@
+cost_code,description,division,cost_type
+01-100,General Conditions - Supervision,01,Labour
+01-200,Site Facilities & Temp Services,01,Other
+01-500,Equipment Rental,01,Equipment
+02-200,Earthwork & Excavation,02,Subcontract
+03-100,Concrete Formwork,03,Labour
+03-200,Reinforcing Steel,03,Material
+03-300,Cast-in-Place Concrete,03,Material
+04-200,Masonry,04,Subcontract
+05-100,Structural Steel,05,Subcontract
+06-100,Rough Carpentry,06,Labour
+07-200,Roofing & Insulation,07,Subcontract
+08-100,"Doors, Frames & Hardware",08,Material
+09-200,Drywall & Finishes,09,Subcontract
+15-000,Mechanical,15,Subcontract
+16-000,Electrical,16,Subcontract
